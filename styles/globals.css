@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.layout {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 300px;
+  background: #00bcd4;
+  color: white;
+}
+
+.router {
+  padding: 10px;
+  cursor: pointer;
+}
